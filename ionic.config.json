@@ -1,0 +1,8 @@
+{
+  "name": "tadreb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f380d1bf"
+}
